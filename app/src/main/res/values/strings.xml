@@ -5,4 +5,8 @@
     <string name="barcode_1">BarCode 1</string>
     <string name="barcode_2">BarCode 2</string>
     <string name="barcode">BarCode</string>
+    <string name="toast_result">please. Try Scan Barcode</string>
+    <string name="permissions">You need permission camera</string>
+    <string name="retry">Retry</string>
+    <string name="toastPermisson">follow</string>
 </resources>

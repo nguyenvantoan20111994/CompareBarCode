@@ -2,6 +2,7 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#f10712</color>
     <color name="login_button_color">#5196f5</color>
+    <color name="fail">#e40c13</color>
 </resources>

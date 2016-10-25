@@ -29,6 +29,7 @@
             android:layout_height="50dp">
             <EditText
                 android:layout_weight="9"
+                android:enabled="false"
                 android:id="@+id/edit_text_barcode1"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
@@ -38,7 +39,7 @@
             <ImageButton
                 android:id="@+id/button_camera1"
                 android:layout_weight="1"
-                android:src="@drawable/ic_photo_camera"
+                android:background="@drawable/ic_photo_camera"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"/>
         </LinearLayout>
@@ -50,6 +51,7 @@
             android:layout_marginBottom="10dp"
             android:layout_height="50dp">
             <EditText
+                android:enabled="false"
                 android:layout_weight="9"
                 android:id="@+id/edit_text_barcode2"
                 android:layout_width="0dp"
@@ -60,7 +62,7 @@
             <ImageButton
                 android:id="@+id/button_camera2"
                 android:layout_weight="1"
-                android:src="@drawable/ic_photo_camera"
+                android:background="@drawable/ic_photo_camera"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"/>
         </LinearLayout>
@@ -127,5 +129,4 @@
 
     </LinearLayout>
 </LinearLayout>
-
 
