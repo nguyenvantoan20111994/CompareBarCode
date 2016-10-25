@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/android" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/android/CaptureActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/AndroidHttpClient.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/CaptureActivityHandler.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/DecodeFormatManager.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/DecodeHandler.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/DecodeThread.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/FinishListener.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/InactivityTimer.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/Intents.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/LocaleManager.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/PlanarYUVLuminanceSource.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/PreferencesActivity.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/ViewfinderResultPointCallback.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/ViewfinderView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/camera/AutoFocusCallback.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/camera/CameraConfigurationManager.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/camera/CameraManager.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/camera/FlashlightManager.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/camera/PreviewCallback.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/integration/IntentIntegrator.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/integration/IntentResult.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/result/ResultButtonListener.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/result/ResultHandler.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/result/ResultHandlerFactory.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/result/TextResultHandler.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/result/supplement/KillerCallable.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/result/supplement/ProductResultInfoRetriever.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/android/result/supplement/SupplementalInfoRetriever.java" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BarCodeCompare</string>
+    <string name="check_barcode">Check BarCode</string>
+    <string name="list_time_check">List Check BarCode</string>
+    <string name="barcode_1">BarCode 1</string>
+    <string name="barcode_2">BarCode 2</string>
+    <string name="barcode">BarCode</string>
+</resources>
